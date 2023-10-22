@@ -1,0 +1,65 @@
+.fundo{
+
+    min-height: 100vh;
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    margin: 5px;
+    max-width: 300px;
+}
+
+.texto{
+    max-width: 345px;
+    font-size: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50PX;
+}
+
+h2{
+    color: rgb(206, 205, 205);
+    font-size: 20px;
+
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0%);
+    border: none;
+    color: white;
+    border-bottom: 2px solid rgb(52, 35, 68);;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 0px;
+}
+.botaoCadastro{
+    background-color: crimson;
+    border-radius: 15px;
+    border-color: crimson;
+    color: white;
+    margin: 25px;
+    margin-left: 0px;
+    height: 35px;
+    width: 300px;
+}
+
+.termos{
+    font-size: 20px;
+    max-width: 400px;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
+
+.login{
+    font-size: 15px;
+}
